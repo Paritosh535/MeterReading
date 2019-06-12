@@ -1,0 +1,9 @@
+$ sudo apt install python3-pyqt5  # replace it with python3-pyqt4 produces the same exception
+
+https://github.com/tzutalin/labelImg
+pip install labelImg
+
+polygon
+https://github.com/wkentaro/labelme
+pip install labelme
+
